@@ -1,4 +1,4 @@
-package com.cworks.java8date;
+package cn.com.cworks.java8date;
 
 import org.junit.Test;
 
